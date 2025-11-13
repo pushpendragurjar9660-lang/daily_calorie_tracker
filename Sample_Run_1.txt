@@ -1,0 +1,33 @@
+Welcome to the Daily Calorie Tracker!
+This tool helps you log meals, calculate calories...
+
+How many meals do you want to enter? 3
+Enter meal 1 name: Breakfast
+Enter calories for Breakfast: 350
+Enter meal 2 name: Lunch
+Enter calories for Lunch: 620
+Enter meal 3 name: Dinner
+Enter calories for Dinner: 500
+
+--- Data Recorded Successfully ---
+
+Enter your daily calorie limit: 1800
+
+Calorie Limit Check:
+✔ You are within your daily limit. Good job!
+
+-------------------------------------------
+Meal Name               Calories
+-------------------------------------------
+Breakfast               350
+Lunch                   620
+Dinner                  500
+-------------------------------------------
+Total:                  1470
+Average:                490.00
+-------------------------------------------
+
+Do you want to save this session to a file? (yes/no): no
+
+Log not saved.
+Thank you for using the Daily Calorie Tracker!
