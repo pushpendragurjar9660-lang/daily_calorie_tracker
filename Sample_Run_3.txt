@@ -1,0 +1,22 @@
+How many meals do you want to enter? 2
+Enter meal 1 name: Roti-Sabzi
+Enter calories for Roti-Sabzi: 450
+Enter meal 2 name: Biryani
+Enter calories for Biryani: 700
+
+Enter your daily calorie limit: 1200
+
+Calorie Limit Check:
+⚠️ You have exceeded your daily calorie limit!
+
+-------------------------------------------
+Meal Name               Calories
+-------------------------------------------
+Roti-Sabzi              450
+Biryani                 700
+-------------------------------------------
+Total:                  1150
+Average:                575.00
+-------------------------------------------
+
+Do you want to save this session to a file? (yes/no): no
