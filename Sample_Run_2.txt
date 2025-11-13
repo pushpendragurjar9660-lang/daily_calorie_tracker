@@ -1,0 +1,29 @@
+How many meals do you want to enter? 4
+Enter meal 1 name: Tea
+Enter calories for Tea: 100
+Enter meal 2 name: Sandwich
+Enter calories for Sandwich: 300
+Enter meal 3 name: Chips
+Enter calories for Chips: 250
+Enter meal 4 name: Juice
+Enter calories for Juice: 180
+
+Enter your daily calorie limit: 700
+
+Calorie Limit Check:
+⚠️ You have exceeded your daily calorie limit!
+
+-------------------------------------------
+Meal Name               Calories
+-------------------------------------------
+Tea                     100
+Sandwich                300
+Chips                   250
+Juice                   180
+-------------------------------------------
+Total:                  830
+Average:                207.50
+-------------------------------------------
+
+Do you want to save this session to a file? (yes/no): yes
+📁 Log saved as calorie_log.txt
